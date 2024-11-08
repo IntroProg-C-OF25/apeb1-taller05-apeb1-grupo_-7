@@ -2,7 +2,7 @@
 /**
  * Año Bisiesto: Comprobar si un año ingresado es bisiesto o no. Si es bisiesto, mostrar un mensaje especial.
  *
- * @author Smart
+ * @author Ricardo Rosales
  */
 import java.util.Scanner;
 
@@ -22,6 +22,7 @@ public class Ejercicio5_AnioBisiesto {
         }
     }
 }
-/*Ingrese un anio: 1666
+/*run:
+Ingrese un anio: 1666
 El anio no es bisiesto
 */

@@ -56,4 +56,9 @@ public class Ejercicio3_MayorTresNumeros {
         }
     }
 }
-
+/*run:
+Escribir el primer numero: 2
+Escribir el segundo numero: 3
+Escribir el tercer numero: 23
+23 es el mayor
+*/

@@ -1,13 +1,15 @@
 
 /**
  *Clasificar a una persona en una categoría de edad (niño, adolescente, adulto) en función de su edad.
+ *
  * @author Daniela Briceño
  */
 import java.util.Scanner;
 
 public class Ejercicio06_CategoriadeEdad {
+
     public static void main(String[] args) {
-    int edad;
+        int edad;
         Scanner tcl = new Scanner(System.in);
         System.out.print("Ingrese su edad: ");
         edad = tcl.nextInt();
@@ -22,9 +24,9 @@ public class Ejercicio06_CategoriadeEdad {
         }
     }
 }
+
 /**
 * run:
 * Ingrese su edad: 12
 * Eres un adolescente
  */
-

@@ -49,12 +49,8 @@ public class Ejercicio09_OrdenamientodeTresNumeros {
         }
     }
 }
+
 /**
- * run:
- * Ingrese el primer numero: 2
- * Ingrese el segundo numero: 3
- * Ingrese el tercer numero: 1
- * Primer numero: 1
- * Segundo numero: 2
- * Tercer numero: 3
+ * run: Ingrese el primer numero: 2 Ingrese el segundo numero: 3 Ingrese el
+ * tercer numero: 1 Primer numero: 1 Segundo numero: 2 Tercer numero: 3
  */

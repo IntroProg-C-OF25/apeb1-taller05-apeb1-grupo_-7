@@ -36,3 +36,10 @@ public class Ejercicio12_CalculodeImpuestos {
         System.out.println("El precio de venta con el impuesto es: " + preciodeventa);
     }
 }
+
+/**
+ * run-single: Ingrese la marca del automovil: Toyota Ingerse el origen del
+ * automovil (puede ser Alemania, Japon, Italia, USA): Alemania Ingrese el
+ * precio de venta del automovil: 12000 El precio de venta con el impuesto es:
+ * 14400.0
+ */

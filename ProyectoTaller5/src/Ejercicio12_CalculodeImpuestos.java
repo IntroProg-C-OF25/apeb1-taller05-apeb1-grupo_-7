@@ -7,6 +7,6 @@
  *
  * @author Usuario
  */
-public class Ejercicio07_RangodeNotas {
+public class Ejercicio12_CalculodeImpuestos {
     
 }

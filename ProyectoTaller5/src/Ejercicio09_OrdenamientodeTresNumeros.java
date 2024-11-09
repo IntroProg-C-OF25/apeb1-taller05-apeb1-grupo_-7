@@ -2,7 +2,7 @@
 /**
  *Dados tres números, ordenarlos en orden ascendente.
  *
- * @author Usuario
+ * @author Daniela Briceño
  */
 import java.util.Scanner;
 

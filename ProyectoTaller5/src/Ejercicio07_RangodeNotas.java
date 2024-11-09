@@ -1,7 +1,7 @@
 
 /**
- *
- * @author Usuario
+ *Asignar una letra (A, B, C, D) a una calificación en función de su rango (A para 90-100, B para 80-89, etc.).
+ * @author Daniela Briceño
  */
 import java.util.Scanner;
 public class Ejercicio07_RangodeNotas {

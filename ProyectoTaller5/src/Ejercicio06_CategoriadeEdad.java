@@ -1,7 +1,4 @@
 
-
-
-
 /**
  *Clasificar a una persona en una categoría de edad (niño, adolescente, adulto) en función de su edad.
  * @author Daniela Briceño

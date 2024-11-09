@@ -2,7 +2,7 @@
 /**
  *Desarrollar una solución que imprima el costo de un pedido de un artículo del cual se tiene la descripción, la cantidad que se requiere
  *y el precio unitario. Si la cantidad pedida excede de 50 unidades, se hace un descuento de 15%.
- * @author Usuario
+ * @author Daniela Briceño
  */
 import java.util.Scanner;
 public class Ejercicio11_PedidosOnline {

@@ -1,7 +1,7 @@
 
 /**
  *
- * @author Usuario
+ * @author Daniela Briceño
  */
 import java.util.Scanner;
 public class Ejercicio08_CalculadoradeIMC {
@@ -36,3 +36,10 @@ public class Ejercicio08_CalculadoradeIMC {
     }
  
 }
+/**
+ * run:
+ * Ingrese su peso en kilogramos: 53,3
+ * Ingrese su altura en metros: 1,53
+ * Su imc es: 22.769020462215387
+ * Peso normal
+ */
